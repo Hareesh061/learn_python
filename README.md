@@ -1,4 +1,4 @@
-**Leanring Python to explore ML/AI and Automotive Technology.**
+**Learning Python to explore ML/AI**
 
 
 # Keep learning
