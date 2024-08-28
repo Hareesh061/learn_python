@@ -1,3 +1,5 @@
 # taking input from user
-a = input("enter your name:")
+a = int(input("enter your number:"))
 print(a)
+
+
